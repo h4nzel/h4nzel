@@ -27,12 +27,13 @@
 ---
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=h4nzel&theme=dracula&hide_border=true&border_radius=5&date_format=M%20j%5B%2C%20Y%5D" height="170" />
+  <img src="https://streak-stats.demolab.com?user=h4nzel&theme=dracula&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=h4nzel&theme=dracula&margin-w=10&margin-h=10&no-frame=true&row=1" height="130" />
+  <img src="https://github-profile-trophy.vercel.app/?username=h4nzel&theme=dracula&no-frame=true&row=1" />
 </p>
+
 
 ---
 

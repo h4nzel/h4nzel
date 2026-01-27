@@ -19,17 +19,6 @@
 ---
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=h4nzel&theme=dracula&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=h4nzel&theme=dracula&no-frame=true&row=1" />
-</p>
-
-
----
-
-<p align="center">
   <img src="https://raw.githubusercontent.com/h4nzel/h4nzel/output/snake.svg" alt="Snake animation" />
 </p>
 
